@@ -9,7 +9,9 @@ Skills: C#/ SQL / R / C
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MikolajZiolk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mikziolkowski/)  
-
+---
+<h3 align="left">💻 Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
 
 <!--
 **MikolajZiolk/MikolajZiolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
