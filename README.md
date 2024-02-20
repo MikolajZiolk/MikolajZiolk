@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋,
+I'm a pursuing a degree in Computer Science & Econometrics at AGH University of Science and Technology. My primary interests lie in .NET development and data analysis in R.
+
+Skills: C#/ SQL / R / C
+
+- 🌱 I’m currently learning C# || R || JavaScript || HTML5 || CSS 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MikolajZiolk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mikziolkowski/)  
+
 
 <!--
 **MikolajZiolk/MikolajZiolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
