@@ -3,8 +3,8 @@ I'm a pursuing a degree in Computer Science & Econometrics at AGH University of 
 
 At the university, I am actively involved in scientific and social activities. I am a member of the "Mentor" scientific club, where I improve my skills in data analysis and statistics. I also belong to the student organization ESTIEM, where I develop my soft skills.
 
-Skills: C#/ SQL / R / C
 
+- 👨‍🎓 I study Computer Science and Econometrics
 - 🌱 I’m currently learning C# || R || JavaScript || HTML5 || CSS 
 
 
