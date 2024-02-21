@@ -35,13 +35,6 @@ At the university, I am actively involved in scientific and social activities. I
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MikolajZiolk/MikolajZiolk/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
