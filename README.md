@@ -36,6 +36,14 @@ At the university, I am actively involved in scientific and social activities. I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo"  />
 </div>
 
+---
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MikolajZiolk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 <!--
 **MikolajZiolk/MikolajZiolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
