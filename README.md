@@ -44,6 +44,12 @@ At the university, I am actively involved in scientific and social activities. I
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MikolajZiolk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MikolajZiolk/MikolajZiolk/output/snake.svg" alt="Snake animation" />
 <!--
 **MikolajZiolk/MikolajZiolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
