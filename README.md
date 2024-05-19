@@ -5,7 +5,7 @@ At the university, I am actively involved in scientific and social activities. I
 
 
 - 👨‍🎓 I study Computer Science and Econometrics
-- 🌱 I’m currently learning C# || R || JavaScript || HTML5 || CSS 
+- 🌱 I’m currently learning C# || R || HTML5 || CSS 
 
 
 <div align="left">
