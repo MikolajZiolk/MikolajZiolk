@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I'm a pursuing a degree in Computer Science & Econometrics at AGH University of Science and Technology. My primary interests lie in data analysis, finance and trading. Additionally, I am learning to program in .NET.
+I'm a pursuing a degree in Computer Science & Econometrics at AGH University of Science and Technology. My primary interests lie in data analysis, finance and investments. Additionally, I am learning to program in .NET.
 
 At the university, I am actively involved in scientific and social activities. I am a member of the Econometrics scientific club, where I improve my skills in data analysis and statistics. I also belong to the student organization ESTIEM, where I develop my soft skills.
 
