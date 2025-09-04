@@ -35,6 +35,10 @@ At the university, I am actively involved in scientific and social activities. I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo"  />
+    <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="30" alt="excel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="30" alt="powerbi logo" />
 </div>
 
 ---
